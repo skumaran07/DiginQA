@@ -1,0 +1,53 @@
+2017-06-02 01:07:12 INFO  TestBase:43-button is clicked[[ChromeDriver: chrome on XP (eaa72f31e245fb27637b50f95d9b75df)] -> xpath: .//*[@id='navigation']/ul[2]/li[2]/a]
+2017-06-02 01:07:12 INFO  TestBase:45-First name is enterkum
+2017-06-02 01:07:12 INFO  TestBase:47-middle name is entera
+2017-06-02 01:07:12 INFO  TestBase:49-Last name is enterran
+2017-06-02 01:07:12 INFO  TestBase:51-Email is enterkum01@gmail.com
+2017-06-02 01:07:12 INFO  TestBase:53-Password is enterTest@123
+2017-06-02 01:07:13 INFO  TestBase:55-ConfirmPassword is enterTest@123
+2017-06-02 01:12:05 INFO  TestBase:43-button is clicked[[ChromeDriver: chrome on XP (70816805673921031f51ab71fdf38a86)] -> xpath: .//*[@id='navigation']/ul[2]/li[2]/a]
+2017-06-02 01:12:05 INFO  TestBase:45-First name is enterkum
+2017-06-02 01:12:05 INFO  TestBase:47-middle name is entera
+2017-06-02 01:12:05 INFO  TestBase:49-Last name is enterran
+2017-06-02 01:12:05 INFO  TestBase:51-Email is enterkum01@gmail.com
+2017-06-02 01:12:05 INFO  TestBase:53-Password is enterTest@123
+2017-06-02 01:12:06 INFO  TestBase:55-ConfirmPassword is enterTest@123
+2017-06-02 01:17:34 INFO  TestBase:43-button is clicked[[ChromeDriver: chrome on XP (afa223902c9db402460dbd89f4d36ab7)] -> xpath: .//*[@id='navigation']/ul[2]/li[2]/a]
+2017-06-02 01:17:34 INFO  TestBase:45-First name is enterkum
+2017-06-02 01:17:34 INFO  TestBase:47-middle name is entera
+2017-06-02 01:17:34 INFO  TestBase:49-Last name is enterran
+2017-06-02 01:17:35 INFO  TestBase:51-Email is enterkum01@gmail.com
+2017-06-02 01:17:35 INFO  TestBase:53-Password is enterTest@123
+2017-06-02 01:17:35 INFO  TestBase:55-ConfirmPassword is enterTest@123
+2017-06-02 01:18:28 INFO  TestBase:43-button is clicked[[ChromeDriver: chrome on XP (6bb42762365c4202741fd7817717084b)] -> xpath: .//*[@id='navigation']/ul[2]/li[2]/a]
+2017-06-02 01:18:28 INFO  TestBase:45-First name is enterkum
+2017-06-02 01:18:28 INFO  TestBase:47-middle name is entera
+2017-06-02 01:18:29 INFO  TestBase:49-Last name is enterran
+2017-06-02 01:18:29 INFO  TestBase:51-Email is enterkum02@gmail.com
+2017-06-02 01:18:29 INFO  TestBase:53-Password is enterTest@123
+2017-06-02 01:18:29 INFO  TestBase:55-ConfirmPassword is enterTest@123
+2017-06-05 15:31:45 INFO  TestBase:43-button is clickedProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[2]/a'
+2017-06-05 15:38:15 INFO  TestBase:45-button is clickedProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[2]/a'
+2017-06-05 15:38:39 INFO  TestBase:47-Link redirect to register formProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/p[2]/a'
+2017-06-05 15:38:40 INFO  TestBase:49-First name is enterkum
+2017-06-05 15:38:40 INFO  TestBase:51-middle name is entera
+2017-06-05 15:38:40 INFO  TestBase:53-Last name is enterran
+2017-06-05 15:38:40 INFO  TestBase:55-Email is enterkum02@gmail.com
+2017-06-05 15:38:40 INFO  TestBase:57-Password is enterTest@123
+2017-06-05 15:38:40 INFO  TestBase:59-ConfirmPassword is enterTest@123
+2017-06-05 15:44:06 INFO  TestBase:45-button is clickedProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[2]/a'
+2017-06-05 15:44:34 INFO  TestBase:47-Link redirect to register formProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/p[2]/a'
+2017-06-05 15:44:34 INFO  TestBase:49-First name is enterkum
+2017-06-05 15:44:34 INFO  TestBase:51-middle name is entera
+2017-06-05 15:44:34 INFO  TestBase:53-Last name is enterran
+2017-06-05 15:44:34 INFO  TestBase:55-Email is enterkum02@gmail.com
+2017-06-05 15:44:34 INFO  TestBase:57-Password is enterTest@123
+2017-06-05 15:44:34 INFO  TestBase:59-ConfirmPassword is enterTest@123
+2017-06-06 14:52:48 INFO  TestBase:45-button is clickedProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[2]/a'
+2017-06-06 14:53:10 INFO  TestBase:47-Link redirect to register formProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/p[2]/a'
+2017-06-06 14:53:10 INFO  TestBase:49-First name is enterkum
+2017-06-06 14:53:10 INFO  TestBase:51-middle name is entera
+2017-06-06 14:53:10 INFO  TestBase:53-Last name is enterran
+2017-06-06 14:53:10 INFO  TestBase:55-Email is enterkum02@gmail.com
+2017-06-06 14:53:10 INFO  TestBase:57-Password is enterTest@123
+2017-06-06 14:53:10 INFO  TestBase:59-ConfirmPassword is enterTest@123
