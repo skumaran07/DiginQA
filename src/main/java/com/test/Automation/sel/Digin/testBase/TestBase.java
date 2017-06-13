@@ -45,7 +45,7 @@ public void getUrl(String url){
 	driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 	
 }
- public String[][] getData(String sheetName,String excelName){
+ public String[][] getData(String sheetName, String excelName){
 	 //C:\Users\WMS\workspace\Digin\src\main\java\com\test\Automation\sel\Digin\excelReader\Excel_Reader.java
 	 
 	 String path = System.getProperty("user.dir")+"\\src\\main\\java\\com\\test\\Automation\\sel\\Digin\\excelReader\\"+excelName;
